@@ -17,3 +17,9 @@ body {
 ul {
     list-style-type: none;
 }
+
+a {
+    color: #c6c7cb;
+    text-decoration: none;
+    font-size: 18px;
+}
