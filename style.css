@@ -15,7 +15,7 @@ body {
 
 .logo {
     font-size: 24px;
-    color: #f9faf8;
+    color: #fefffd;
 }
 
 ul {
@@ -35,4 +35,10 @@ a {
 .hero {
     background-color: #1f2937;
     display: flex;
+}
+
+.title {
+    font-size: 48px;
+    color: #fefffd;
+    font-weight: 900;
 }
