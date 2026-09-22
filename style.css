@@ -43,7 +43,7 @@ a {
 
 .h-text {
     display: flex;
-    flex-flow: column wrap;
+    flex-direction: column;
     width: 400px;
     height: 200px;
 }
