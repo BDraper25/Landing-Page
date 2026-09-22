@@ -73,8 +73,10 @@ button {
 .img {
     background-color: rgb(102, 101, 101);
     color: #c6c7cb;
-    width: 600px;
+    width: 550px;
     height: 250px;
-    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
     flex-grow: 0;
 }
