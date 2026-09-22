@@ -36,11 +36,14 @@ a {
     background-color: #1f2937;
     display: flex;
     justify-content: center;
+    padding: 135px;
 }
 
 .h-text {
     display: flex;
     flex-flow: column wrap;
+    width: 900px;
+    height: 200px;
 }
 
 .title {
