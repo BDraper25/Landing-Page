@@ -54,6 +54,11 @@ a {
     color: #c6c7cb;
 }
 
+button {
+    background-color: #3882F6;
+    border: none;
+}
+
 .img {
     background-color: rgb(102, 101, 101);
     color: #c6c7cb;
