@@ -37,6 +37,10 @@ a {
     display: flex;
 }
 
+.h-text {
+    display: flex;
+    flex-flow: column wrap;
+}
 .title {
     font-size: 48px;
     color: #fefffd;
