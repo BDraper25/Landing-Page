@@ -35,12 +35,14 @@ a {
 .hero {
     background-color: #1f2937;
     display: flex;
+    width: 600px;
 }
 
 .h-text {
     display: flex;
     flex-flow: column wrap;
 }
+
 .title {
     font-size: 48px;
     color: #fefffd;
@@ -50,4 +52,12 @@ a {
 .subtitle {
     font-size: 18px;
     color: #c6c7cb;
+}
+
+.img {
+    background-color: rgb(102, 101, 101);
+    color: #c6c7cb;
+    width: 900px;
+    height: 200px;
+    text-align: center;
 }
