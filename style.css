@@ -95,30 +95,30 @@ button {
 }
 
 img {
-    width: 100px;
-    height: 100px;
+    width: 150px;
+    height: 150px;
 }
 
 .one-c {
     display: flex;
     flex-wrap: wrap;
-    justify-content: center;
+    
 }
 
 .two-c {
     display: flex;
     flex-wrap: wrap;
-    justify-content: center;
+   
 }
 
 .three-c {
     display: flex;
     flex-wrap: wrap;
-    justify-content: center;
+    
 }
 
 .four-c {
     display: flex;
     flex-wrap: wrap;
-    justify-content: center;
+    
 }
