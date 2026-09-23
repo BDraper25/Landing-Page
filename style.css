@@ -129,6 +129,9 @@ img {
 
 .quote {
     background-color: #E5E7EB;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
 
 .quote-text {
@@ -136,4 +139,5 @@ img {
     color: #1F2937;
     font-weight: 300;
     font-style: italic;
+    max-width: 780px;
 }
