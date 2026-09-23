@@ -88,3 +88,13 @@ button {
     color: #1f2937;
     font-weight: 900;
 }
+
+.image-container {
+    display: flex;
+    gap: 20px;
+}
+
+img {
+    width: 100px;
+    height: 100px;
+}
