@@ -170,3 +170,8 @@ img {
 .action-subtext {
     color: #c6c7cb;
 }
+
+.action-button {
+    border: solid white 2px;
+    border-radius: 8px;
+}
