@@ -98,3 +98,19 @@ img {
     width: 100px;
     height: 100px;
 }
+
+.one-c {
+    display: flex;
+}
+
+.two-c {
+    display: flex;
+}
+
+.three-c {
+    display: flex;
+}
+
+.four-c {
+    display: flex;
+}
