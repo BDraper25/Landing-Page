@@ -138,7 +138,10 @@ img {
 .quote-text {
     font-size: 36px;
     color: #1F2937;
-    font-weight: 300;
     font-style: italic;
     max-width: 780px;
+}
+
+.quote-reference {
+    font-size: 20px;
 }
