@@ -175,3 +175,8 @@ img {
     border: solid white 2px;
     border-radius: 8px;
 }
+
+.footer {
+    color: #c6c7cb;
+    background-color: #1f2937;
+}
