@@ -91,7 +91,7 @@ button {
 
 .image-container {
     display: flex;
-    gap: 20px;
+    gap: 20;
 }
 
 img {
@@ -101,16 +101,24 @@ img {
 
 .one-c {
     display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
 }
 
 .two-c {
     display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
 }
 
 .three-c {
     display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
 }
 
 .four-c {
     display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
 }
