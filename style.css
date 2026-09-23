@@ -179,4 +179,8 @@ img {
 .footer {
     color: #c6c7cb;
     background-color: #1f2937;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 45px;
 }
