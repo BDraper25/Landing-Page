@@ -158,5 +158,6 @@ img {
     margin: 100px;
     margin-left: 200px;
     margin-right: 200px;
+    border-radius: 8px;
     background-color: #3882F6;
 }
