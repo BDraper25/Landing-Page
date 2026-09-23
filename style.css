@@ -156,5 +156,7 @@ img {
     justify-content: center;
     padding: 50px;
     margin: 100px;
+    margin-left: 200px;
+    margin-right: 200px;
     background-color: #3882F6;
 }
