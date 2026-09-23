@@ -87,11 +87,13 @@ button {
     font-size: 36px;
     color: #1f2937;
     font-weight: 900;
+    padding: 50px;
 }
 
 .image-container {
     display: flex;
-    gap: 20;
+    justify-content: center;
+    gap: 50px;
 }
 
 img {
