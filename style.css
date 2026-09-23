@@ -80,3 +80,9 @@ button {
     align-items: center;
     flex-grow: 0;
 }
+
+.info-head {
+    display: flex;
+    justify-content: center;
+    
+}
