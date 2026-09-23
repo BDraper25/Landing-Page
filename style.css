@@ -102,23 +102,24 @@ img {
 .one-c {
     display: flex;
     flex-wrap: wrap;
+    max-width: 150px;
     
 }
 
 .two-c {
     display: flex;
     flex-wrap: wrap;
-   
+    max-width: 150px;
 }
 
 .three-c {
     display: flex;
     flex-wrap: wrap;
-    
+    max-width: 150px;
 }
 
 .four-c {
     display: flex;
     flex-wrap: wrap;
-    
+    max-width: 150px;
 }
